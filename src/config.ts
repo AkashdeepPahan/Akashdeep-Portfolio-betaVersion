@@ -1,107 +1,95 @@
 export const config = {
     developer: {
-        name: "Huzaif",
-        fullName: "Huzaif Ahmed",
-        title: "Full Stack Developer",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        name: "Akashdeep",
+        fullName: "Akashdeep Pahan",
+        title: "AI & ML Enthusiast | Frontend Developer (Beginner)",
+        description: "AI & ML enthusiast exploring intelligent systems and modern web development. Passionate about building simple, clean, and interactive digital experiences while continuously learning new technologies."
     },
+
     social: {
-        github: "huzaifahmedz",
-        email: "dev.huzaif@gmail.com",
+        github: "AkashdeepPahan",
+        email: "pahanakashdeep@gmail.com",
         location: "India"
     },
+
     about: {
         title: "About Me",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
+        ddescription: [
+            "I am a beginner frontend developer and AI & ML enthusiast.",
+            "I love experimenting with new technologies and building small projects.",
+            "I enjoy solving problems using code and creating digital experiences."
+        ]
     },
+
     experiences: [
         {
-            position: "Frontend Developer",
-            company: "SelectSkillSet",
-            period: "2024 - Present",
+            position: "Student Developer",
+            company: "Self-Learning",
+            period: "2023 - Present",
             location: "Remote",
-            description: "Developing modern, responsive frontend applications with focus on user experience and performance. Working with cutting-edge technologies to build scalable web solutions.",
+            description: "Learning frontend development, AI & ML fundamentals, and building personal projects to improve technical skills.",
             responsibilities: [
-                "Building responsive and interactive user interfaces using React and Next.js",
-                "Implementing modern UI/UX designs with TailwindCSS and Framer Motion",
-                "Optimizing application performance and ensuring cross-browser compatibility",
-                "Collaborating with design and backend teams to deliver high-quality features"
+                "Learning React, JavaScript, and modern frontend tools",
+                "Practicing machine learning basics using Python",
+                "Building small projects and experimenting with new ideas",
+                "Following documentation and improving coding habits"
             ],
-            technologies: ["React", "Next.js", "TailwindCSS", "JavaScript", "Framer Motion", "TypeScript"]
-        },
-        {
-            position: "Full Stack Developer",
-            company: "Tekisky",
-            period: "2023 - 2024",
-            location: "Remote",
-            description: "Developed and maintained full-stack web applications, working on both frontend and backend systems. Collaborated with cross-functional teams to deliver robust software solutions.",
-            responsibilities: [
-                "Developed and maintained full-stack web applications using React, Node.js, and MongoDB",
-                "Implemented RESTful APIs and integrated third-party services",
-                "Built responsive user interfaces and optimized application performance",
-                "Worked on database design and backend architecture"
-            ],
-            technologies: ["React", "Node.js", "MongoDB", "Express", "JavaScript", "MERN Stack"]
+            technologies: ["HTML", "CSS", "JavaScript", "React", "Python", "Machine Learning"]
         }
     ],
+
     projects: [
         {
             id: 1,
-            title: "AI-Powered Code Review Assistant",
-            category: "Full Stack",
-            technologies: "Python, TensorFlow, React, FastAPI, PostgreSQL, Docker",
+            title: "Student Loan EMI Calculator",
+            category: "Web App",
+            technologies: "JavaScript, HTML, CSS",
             image: "/images/project-1.webp"
         },
         {
             id: 2,
-            title: "Real-time Collaborative Whiteboard",
-            category: "Full Stack",
-            technologies: "TypeScript, WebRTC, Socket.io, Canvas API, Node.js, Redis",
+            title: "AI Disease Prediction Model (Basic)",
+            category: "AI / ML",
+            technologies: "Python, Scikit-Learn",
             image: "/images/project-2.webp"
         },
         {
             id: 3,
-            title: "Blockchain Voting System",
-            category: "Full Stack",
-            technologies: "Solidity, Web3.js, React, Ethereum, IPFS, MetaMask",
+            title: "Weather App (API Based)",
+            category: "Frontend",
+            technologies: "HTML, CSS, JavaScript, OpenWeather API",
             image: "/images/project-3.webp"
-        },
-        {
-            id: 4,
-            title: "Cloud Infrastructure Dashboard",
-            category: "Full Stack",
-            technologies: "Go, Kubernetes, Grafana, Prometheus, Terraform, React",
-            image: "/images/project-4.webp"
-        },
-        {
-            id: 5,
-            title: "Neural Network Visualizer",
-            category: "Full Stack",
-            technologies: "Python, TensorFlow.js, D3.js, Next.js, WebGL, TypeScript",
-            image: "/images/project-5.webp"
         }
     ],
+
     contact: {
-        email: "dev.huzaif@gmail.com",
-        github: "https://github.com/huzaifahmedz",
-        linkedin: "https://www.linkedin.com",
-        twitter: "https://x.com",
-        instagram: "https://www.instagram.com"
+        email: "pahanakashdeep@gmail.com",
+        github: "https://github.com/AkashdeepPahan",
+        linkedin: "https://www.linkedin.com",  // update later if you create one
+        twitter: "https://x.com/Akashdeep2006a?t=2YrfFHc5h1AygwDsukAbEA&s=08",
+        instagram: "https://www.instagram.com/__akash__deep__2006?utm_source=qr&igsh=YzZnenN6YTJlcXBm"
     },
+
     skills: {
         develop: {
             title: "DEVELOP",
-            description: "Full-stack development with modern web technologies",
-            details: "Building scalable web applications using React, Node.js, and cutting-edge frameworks. Specializing in creating responsive, performant, and accessible user interfaces.",
-            tools: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS", "Framer Motion", "Three.js"]
+            description: "Frontend development and machine learning fundamentals",
+            details: "Focused on learning frontend development and AI/ML fundamentals. Building beginner-friendly projects that help improve coding skills and problem-solving.",
+            tools: [
+                "HTML", "CSS", "JavaScript",
+                "React (Beginner)",
+                "Python", "Machine Learning Basics",
+                "Git", "GitHub"
+            ]
         },
         design: {
             title: "DESIGN",
-            description: "UI/UX design and modern web interfaces",
-            details: "Creating beautiful and intuitive user experiences with focus on accessibility and user-centered design principles.",
-            tools: ["UI Design", "UX Design", "Figma", "Photoshop", "Motion Design", "Responsive Design", "Accessibility", "Prototyping"]
+            description: "Simple UI Design principles",
+            details: "Learning clean UI/UX basics and improving visual design using minimal, user-friendly layouts.",
+            tools: [
+                "Figma", "Canva", "Color Theory",
+                "Responsive Design", "Basic Prototyping"
+            ]
         }
     }
 };
-
-
