@@ -5,7 +5,7 @@ Do check it out!
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-![Protfolio-Preview](https://raw.githubusercontent.com/AkashdeepPahan/Akashdeep-Portfolio-betaVersion/ec236ad34c3b867fee9076d024196c465cbb644f/download.pngd)
+![Protfolio-Preview](https://github.com/AkashdeepPahan/Akashdeep-Portfolio-betaVersion/blob/main/download.png?raw=true)
 
 ## License
 
